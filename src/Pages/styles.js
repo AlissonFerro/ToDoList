@@ -6,6 +6,7 @@ export const Page = styled.div`
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    background-color: #eaeaeaff;
 `;
 
 export const Card = styled.div`
@@ -16,7 +17,7 @@ export const Card = styled.div`
     width: 50%;
 `;
 
-export const Row = styled.div`
+export const Col = styled.div`
     display: flex;
     flex-direction: column;
     width: 100%;

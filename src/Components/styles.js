@@ -29,6 +29,9 @@ export const ButtonStyle = styled.button`
     border: none;
 `;
 
-export const Ul = styled.ul``;
+export const Ul = styled.ul`
+    display: flex;
+    justify-content: space-evenly;
+`;
 
 export const Li = styled.li``;
